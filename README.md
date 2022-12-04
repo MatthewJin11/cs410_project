@@ -20,10 +20,10 @@ For example, to find 5 players that you should trade for Russell Westbrook who i
 
 You should see:
 
-1. John Wall
-2. D'Angelo Russell
-3. Jrue Holiday
-4. CJ McCollum
-5. Kyle Lowry
+    1. John Wall
+    2. D'Angelo Russell
+    3. Jrue Holiday
+    4. CJ McCollum
+    5. Kyle Lowry
 
 4. I worked alone on this project, and I can confidently say I have put in at least 20 hours for this project. This includes doing a quantitative analysis on the returned results, and I will share my thoughts on the results in the presentation video. 
